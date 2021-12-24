@@ -50,4 +50,7 @@ const retrocederImagen = () => {
 
 btnRetrocede.addEventListener('click', retrocederImagen);
 
-alert("Bienvenido")
+
+
+
+alert("FELICES PASCUAS LES DESEA ESTRUCTURAS C.O ")
