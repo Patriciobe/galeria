@@ -53,4 +53,4 @@ btnRetrocede.addEventListener('click', retrocederImagen);
 
 
 
-alert("FELICES PASCUAS LES DESEA ESTRUCTURAS C.O ")
+alert("Fabricante exclusivo La Troncal ")
